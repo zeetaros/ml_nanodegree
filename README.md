@@ -1,2 +1,2 @@
-# ml_nanodegree
+# Machine Learning Coursework
 Coursework for Udacity Machine Learning Engineer Nanodegree
