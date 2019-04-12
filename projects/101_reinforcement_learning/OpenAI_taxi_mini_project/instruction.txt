@@ -1,3 +1,15 @@
+[Results]
+1st Attempt Episode 20000/20000 || Best average reward 8.85
+TD(0) with SARSA(0)
+epsilon=0.005
+alpha=0.01
+
+2nd Attempt Episode 20000/20000 || Best average reward 9.57
+TD(0) with Expected SARSA
+epsilon=0.001
+alpha=0.2
+
+[Intro]
 The workspace contains three files:
 
 agent.py: Develop your reinforcement learning agent here. This is the only file that you should modify.
