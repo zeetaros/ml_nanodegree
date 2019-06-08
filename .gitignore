@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 .DS_Store
 projects/pca_mini_project/data/
+
+# GloVe pre-trained word vectors
+*0d.txt
