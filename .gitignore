@@ -107,3 +107,6 @@ projects/pca_mini_project/data/
 
 # GloVe pre-trained word vectors
 *0d.txt
+
+# Saved best models
+*.best.hdf5
