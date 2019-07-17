@@ -110,3 +110,6 @@ projects/pca_mini_project/data/
 
 # Saved best models
 *.best.hdf5
+
+# Embedding models
+glove.6B.100d.txt
